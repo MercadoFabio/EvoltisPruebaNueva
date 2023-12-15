@@ -1,0 +1,6 @@
+C:\Users\Administrador\source\repos\EvoltisPrueba\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\EvoltisPrueba\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\EvoltisPrueba\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\EvoltisPrueba\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\EvoltisPrueba\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\EvoltisPrueba\Repository\obj\Debug\net6.0\Repository.sourcelink.json

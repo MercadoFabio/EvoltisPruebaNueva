@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{3EFD0688-65B8-4D77-8F39-971A954B5452}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{784F0660-652D-4005-B516-AE8CC3922341}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvoltisApi", "EvoltisApi\EvoltisApi.csproj", "{8BD89DDD-79B7-4918-8598-364D4E783569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EFD0688-65B8-4D77-8F39-971A954B5452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFD0688-65B8-4D77-8F39-971A954B5452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFD0688-65B8-4D77-8F39-971A954B5452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFD0688-65B8-4D77-8F39-971A954B5452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784F0660-652D-4005-B516-AE8CC3922341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784F0660-652D-4005-B516-AE8CC3922341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784F0660-652D-4005-B516-AE8CC3922341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784F0660-652D-4005-B516-AE8CC3922341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD89DDD-79B7-4918-8598-364D4E783569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD89DDD-79B7-4918-8598-364D4E783569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD89DDD-79B7-4918-8598-364D4E783569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD89DDD-79B7-4918-8598-364D4E783569}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E373FB6-0A6F-446B-950F-22847631A063}
+	EndGlobalSection
+EndGlobal
